@@ -1,0 +1,51 @@
+HISTORIAS DE USUARIO:
+-Tomar Fotos
+-Seleccionar Fotos del explorador de archivos
+-Agregar pie de foto
+-Geolocalizar fotos
+-Agregar Geolocalización al pie de foto
+-Usar firebase para almacenar la info de post
+-Usar Storage para almacenar las fotos
+-Habilitar comentarios
+-Habilitar follows
+-Habilitar Likes
+-Emular estilos de instagram con bootstrap
+
+*PROPUESTA DE BACKLOG*
+
+Login:
+ -Crear HTML
+ -Crear CSS
+ -Aplicar estilo bootstrap
+ -Validar campos
+ -Implementar Auth con Firebase
+
+Pagina principal:
+ -Crear HTML
+ -Crear CSS
+ -Aplicar estilo bootstrap
+ -Conectar con Firebase
+ -Crear boton de cierre de sesión
+ -Seccion de Fotos:
+ -->Plugin tomar fotos
+ -->Plugin añadir archivo (foto)
+ -->Estilo CSS para edición de imágenes
+ -->Agregar Pie de foto
+ -->Maquetear despliegue
+ -->Implementar Likes
+ -->Implementar Geolocalización
+ -->Almacenar fotos
+ -->Implementar comentarios
+ -->Implementar follows
+ -->Implementar editar con CSS
+ -->foto de perfil
+
+ Pagina de Feed:
+ -Crear HTML
+ -Crear CSS
+ -Conectar con Firebase 
+ -Agregar fotos de Firestore
+
+
+
+
